@@ -3,7 +3,7 @@
 """
 Created on Tue Sep  7 20:06:30 2021
 
-@author: jader
+@author: Tanmoy
 """
 
 import math
