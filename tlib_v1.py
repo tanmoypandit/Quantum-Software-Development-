@@ -149,7 +149,6 @@ def kikL2(r, n, mu):
     
     
 
-    
-# lista L com todas as possibilidades de tamanho n    
+      
 def combo(L,n):
     return list(map(list,list(itertools.product(L, repeat=n))))
